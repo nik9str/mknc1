@@ -1,0 +1,21 @@
+/**
+ * Enum of all possible states for students system
+ * */
+public enum State {
+    INITIATION,
+    UNIVERSITIES_MERGE,
+    MAIN_MENU,
+    SHOW_ALL_STUDENTS,
+    SHOW_ALL_GROUPS,
+    FIND_STUDENT,
+    CREATE_STUDENT,
+    CREATE_GROUP,
+    EDIT_STUDENT,
+    EDIT_STUDENTS_NAME,
+    EDIT_STUDENTS_GROUP,
+    FIND_GROUP,
+    EDIT_GROUP,
+    EDIT_GROUPS_NUMBER,
+    EDIT_GROUPS_DEPARTMENT,
+    EXIT
+}
